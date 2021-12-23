@@ -1,0 +1,14 @@
+bustopher-jones-the-cat-about-town src/data/bustopher-jones-the-cat-about-town.txt
+growltigers-last-stand src/data/growltigers-last-stand.txt
+gus-the-theater-cat src/data/gus-the-theater-cat.txt
+macavity-the-mystery-cat src/data/macavity-the-mystery-cat.txt
+mr-mistoffelees src/data/mr-mistoffelees.txt
+mungojerrie-and-rumpelteazer src/data/mungojerrie-and-rumpelteazer.txt
+of-the-awefull-battle-of-the-pekes-and-the-pollicles src/data/of-the-awefull-battle-of-the-pekes-and-the-pollicles.txt
+old-deuteronomy src/data/old-deuteronomy.txt
+skimbleshanks-the-railway-cat src/data/skimbleshanks-the-railway-cat.txt
+the-ad-dressing-of-cats src/data/the-ad-dressing-of-cats.txt
+the-naming-of-cats src/data/the-naming-of-cats.txt
+the-old-gumbie-cat src/data/the-old-gumbie-cat.txt
+the-rum-tum-tugger src/data/the-rum-tum-tugger.txt
+the-song-of-the-jellicles src/data/the-song-of-the-jellicles.txt
